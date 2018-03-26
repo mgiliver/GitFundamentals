@@ -2,4 +2,5 @@ Hello, Git
 
 Hello, again
 Updating README with new information
-Sharing remotely is fun and easy again
+Sharing remotely is fun and easy againFeature2
+Feature2 changes
